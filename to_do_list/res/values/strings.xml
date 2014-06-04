@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">to_do_list</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="parse_app_id">7FDVRXQwK9Izcr17ofl9IeeMC212wLmVaxaGnFEo</string>
+	<string name="parse_client_key">bQo7mkJbMoi0fQmaZ2Ckwpy1uGnnevbGDojQdzXV</string>
+	<skip />
+	
+	<string name="text_send">Send</string>
+</resources>
